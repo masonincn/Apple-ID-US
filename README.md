@@ -93,3 +93,7 @@
 2. 购买礼品卡，打开 App Store，点选头像 > `Redeem Gift Card or Code` >  `You can also enter your code manually`，输入代码完成充值。
 
 ![](pic/09.jpg)
+
+如果对你有帮助，欢迎支付宝扫码支持！
+
+![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
