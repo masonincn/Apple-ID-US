@@ -13,7 +13,7 @@
 
 ![](pic/01.png)
 
-填入`姓名``生日``邮件``密码`。
+填入姓名、生日、邮件、密码。
 >注：国家选择美国
 
 ![](pic/02.png)
@@ -45,7 +45,7 @@ App Store 登陆新注册的美区 Apple ID，会跳出验证信息点击「Revi
 
 ![](pic/07.jpg)
 
-确认国家是 United States > 打开「Agree to Terms and Conditions」同意条款和条件 > 点击 Next 继续 > 付款方式选择 None > 填写 `姓名``美国地址`后点击 Next > 点击 Continue 完成验证。
+确认国家是 United States > 打开「Agree to Terms and Conditions」同意条款和条件 > 点击 Next 继续 > 付款方式选择 None > 填写姓名，美国地址后点击 Next > 点击 Continue 完成验证。
 > 注1：[美国地址生成器](http://www.haoweichi.com)
 > 注2：也可以绑定美区 PayPal
 
