@@ -9,7 +9,7 @@
 
 ### 步骤一：创建新的 Apple ID
 
-前往 [Apple ID](http://appleid.apple.com/) ，点击「创建您的 Apple ID」，填入姓名、国家选择美国、生日、邮箱、密码。
+前往 [Apple ID](http://appleid.apple.com/) ，点击「创建您的 Apple ID」，填入姓名、国家选择美国、生日、邮箱、密码、电话号码。
 
 ![](pic/02.png)
 
