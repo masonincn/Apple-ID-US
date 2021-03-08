@@ -41,4 +41,4 @@
 
 ---
 
-[![Telegram交流群](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)]([https://t.me/applequn](https://t.me/applequn))
+[![Telegram交流群](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/Apple_CHN)
