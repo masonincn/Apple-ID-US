@@ -42,4 +42,4 @@
 ### 联系信息
 
 * Twitter：[@yifangme](https://twitter.com/yifangme)
-* Telegram 交流群：[@Apple_CHN](https://t.me/Apple_CHN) 
+* Telegram 交流群：[@apple_chn](https://t.me/apple_chn) 
