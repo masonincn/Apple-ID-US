@@ -39,4 +39,7 @@
 
 ---
 
-[![Telegram交流群](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/Apple_CHN)
+### 联系信息
+
+* Twitter：[@yifangme](https://twitter.com/yifangme)
+* Telegram 交流群：[@Apple_CHN](https://t.me/Apple_CHN) 
