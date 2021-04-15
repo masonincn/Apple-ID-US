@@ -1,4 +1,6 @@
-# 注册美区 Apple ID 教程
+# 注册美区 Apple ID 方法
+
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/apple_chn)
 
 ### 创建 Apple ID
 
@@ -36,10 +38,3 @@
 **方案一**：Apple ID 绑定[美区 PayPal](https://github.com/masonincn/PayPal-US)。
 
 **方案二**：购买礼品卡，打开 App Store，点选头像 > Redeem Gift Card or Code >  You can also enter your code manually，输入代码完成充值。
-
----
-
-### 联系信息
-
-* Twitter：[@yifangme](https://twitter.com/yifangme)
-* Telegram：[@apple_chn](https://t.me/apple_chn) 
